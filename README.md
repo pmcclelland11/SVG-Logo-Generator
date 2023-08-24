@@ -1,6 +1,6 @@
 # UC Berkeley Coding Bootcamp - Module 10 Challenge
 ## SVG Logo Generator
-Simple command-line application that can be used to generate a simple logo for projects. 
+The SVG Logo Generator is a simple command-line tool that allows you to create custom logos in SVG format. With this tool, you can choose from three different shapes (triangle, circle, or square) and customize them with your desired text and colors. The logos are generated as SVG images, making them ideal for use in web applications, branding, and various design projects.
 
 ## Table of Contents 
 - [User Story](#user-story)
@@ -57,3 +57,4 @@ N/A
 Authored by Patrick McClelland, UC Berkeley Bootcamp Student
 
 ## Video Walkthrough
+Command-Line Demo: https://www.youtube.com/watch?v=jcKZcDZ5Q8Q
