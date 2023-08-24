@@ -1,5 +1,5 @@
 # UC Berkeley Coding Bootcamp - Module 10 Challenge
-# SVG Logo Generator
+## SVG Logo Generator
 Simple command-line application that can be used to generate a simple logo for projects. 
 
 ## Table of Contents 
@@ -57,4 +57,3 @@ N/A
 Authored by Patrick McClelland, UC Berkeley Bootcamp Student
 
 ## Video Walkthrough
-![Video Walkthrough]()

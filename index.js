@@ -46,8 +46,8 @@ async function generateLogo() {
       x = 150; 
       y = 100; 
     } else if (shape === 'Square') {
-      x = 150; 
-      y = 150; 
+      x = 125; 
+      y = 100; 
     }
   
     const svgContent = `
